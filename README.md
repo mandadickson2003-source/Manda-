@@ -112,8 +112,8 @@ Input Score	Expected Grade
 
 ICS-Quadratic-Grader-<Surname-Firstname>/
 │
-├── index.html  # Single-file web application (HTML + JS)
-└── README.md   # Project description, usage, and test cases
+├── index.html # Single-file web application (HTML + JS)
+└── README.md  # Project description, usage, and test cases
 
 
 ---
