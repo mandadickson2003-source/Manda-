@@ -5,7 +5,13 @@ Quadratic Solver and Grading System (Single-File Web App)
 📝 Project Description
 
 This project is a single-page web application built using HTML and JavaScript that performs two main functions:
+
 FEATURES:
+1.Quadratic Equation Solver
+2.Grading System
+
+
+
 1. Quadratic Equation Solver
 
 Solves equations of the form: ax² + bx + c = 0
