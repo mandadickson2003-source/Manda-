@@ -1,4 +1,4 @@
-ICS-QUADRATIC-Grader<MANDA-DICKSON>
+ICS-QUADRATIC-Grader-MANDA-DICKSON
 
 Quadratic Solver and Grading System (Single-File Web App)
 
