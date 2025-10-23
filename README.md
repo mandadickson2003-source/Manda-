@@ -9,6 +9,7 @@ This project is a single-page web application built using HTML and JavaScript th
 FEATURES:
 
 1.Quadratic Equation Solver
+
 2.Grading System
 
 
